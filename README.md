@@ -1,2 +1,2 @@
 # statistics
-# Some basic Statistical Operations 
+# Some basic Statistical work with Python
