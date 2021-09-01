@@ -1,2 +1,2 @@
 # Statistics and Probability.
-# Some basic Statistical work with Python
+# Some basic statistical work with Python
