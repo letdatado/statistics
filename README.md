@@ -1,2 +1,3 @@
 # Statistics and Probability.
-# Work done with an emphasis on Statistics and Probability with Python
+# 
+Work done with an emphasis on basic Statistics and Probability with Python
